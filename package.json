@@ -60,7 +60,7 @@
     "now": "^6.4.1",
     "npm-check": "^5.7.1",
     "postcss-loader": "1.3.3",
-    "sass-loader": "6.0.3",
+    "sass-loader": "6.0.7",
     "webpack": "2.2.1"
   }
 }
