@@ -55,7 +55,7 @@
     "concurrently": "3.4.0",
     "css-loader": "0.28.11",
     "extract-text-webpack-plugin": "2.1.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.11.0",
     "nodemon": "1.11.0",
     "now": "^6.4.1",
     "npm-check": "^5.7.1",
