@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: connect-mongo
+    versions:
+    - 3.2.0
+    - 4.1.0
+    - 4.2.0
+    - 4.2.2
+    - 4.3.0
+    - 4.3.1
+    - 4.4.0
